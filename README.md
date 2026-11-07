@@ -1,5 +1,4 @@
 # DexDisplay
-# DexDisplay 🟢
 ### Your glucose. At a glance.
 
 **🚧 Coming Soon — Currently in Development**
